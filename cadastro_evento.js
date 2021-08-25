@@ -4,7 +4,7 @@ let evento = ("Programação Mil Grau");
 console.log("Evento: " + evento);
 
 
-let dataevento = "28/09/2021";
+let dataevento = "28/08/2021";
 
 if (dataevento <= "24/08/2021") {
     console.log("Data inválida");
